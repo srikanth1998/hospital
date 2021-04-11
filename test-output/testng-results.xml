@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-11T09:44:52Z" name="Suite" finished-at="2021-04-11T09:46:40Z" duration-ms="108548">
+    <groups>
+    </groups>
+    <test started-at="2021-04-11T09:44:52Z" name="Test" finished-at="2021-04-11T09:46:40Z" duration-ms="108548">
+      <class name="com.team.findinghospital.qa.testcases.SearchFiltersTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.team.findinghospital.qa.testcases.SearchFiltersTest@7fc229ab]" started-at="2021-04-11T15:15:19Z" name="setup" finished-at="2021-04-11T15:15:24Z" duration-ms="5586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="cityTest()[pri:0, instance:com.team.findinghospital.qa.testcases.SearchFiltersTest@7fc229ab]" started-at="2021-04-11T15:15:24Z" name="cityTest" finished-at="2021-04-11T15:15:57Z" duration-ms="32184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cityTest -->
+      </class> <!-- com.team.findinghospital.qa.testcases.SearchFiltersTest -->
+      <class name="com.team.findinghospital.qa.testcases.LandingPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.team.findinghospital.qa.testcases.LandingPageTest@6e75aa0d]" started-at="2021-04-11T15:14:52Z" name="setup" finished-at="2021-04-11T15:15:04Z" duration-ms="12327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="cityTest()[pri:0, instance:com.team.findinghospital.qa.testcases.LandingPageTest@6e75aa0d]" started-at="2021-04-11T15:15:04Z" name="cityTest" finished-at="2021-04-11T15:15:16Z" duration-ms="12323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cityTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.team.findinghospital.qa.testcases.LandingPageTest@6e75aa0d]" started-at="2021-04-11T15:15:16Z" name="close" finished-at="2021-04-11T15:15:19Z" duration-ms="2530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.team.findinghospital.qa.testcases.LandingPageTest -->
+      <class name="com.team.findinghospital.qa.testcases.DiagnosticPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.team.findinghospital.qa.testcases.DiagnosticPageTest@2cbb3d47]" started-at="2021-04-11T15:15:57Z" name="setup" finished-at="2021-04-11T15:16:09Z" duration-ms="12230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="cityTest()[pri:0, instance:com.team.findinghospital.qa.testcases.DiagnosticPageTest@2cbb3d47]" started-at="2021-04-11T15:16:09Z" name="cityTest" finished-at="2021-04-11T15:16:17Z" duration-ms="7771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cityTest -->
+      </class> <!-- com.team.findinghospital.qa.testcases.DiagnosticPageTest -->
+      <class name="com.team.findinghospital.qa.testcases.CorporateWellnessPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.team.findinghospital.qa.testcases.CorporateWellnessPageTest@527e5409]" started-at="2021-04-11T15:16:17Z" name="setup" finished-at="2021-04-11T15:16:33Z" duration-ms="16536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scheduleDemo()[pri:0, instance:com.team.findinghospital.qa.testcases.CorporateWellnessPageTest@527e5409]" started-at="2021-04-11T15:16:33Z" name="scheduleDemo" finished-at="2021-04-11T15:16:40Z" duration-ms="7038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scheduleDemo -->
+      </class> <!-- com.team.findinghospital.qa.testcases.CorporateWellnessPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
